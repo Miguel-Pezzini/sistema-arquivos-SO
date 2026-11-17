@@ -1,0 +1,10 @@
+# Objetos e executável
+*.o
+minifs
+
+# Editor / SO
+.vscode/
+.idea/
+*~
+*.swp
+.DS_Store
